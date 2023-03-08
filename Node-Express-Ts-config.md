@@ -3,12 +3,16 @@
 
 1. inicializar el proyecto en Node:
 
-```npm init -y
+```
+npm init -y
+
 ```
 
 2. crear el archivo de configuracion de Ts:
 
-```tsc --init
+```
+tsc --init
+
 ```
 
 3. Hacer los cambios en el archivo __tsconfig.json__
@@ -23,8 +27,10 @@
 
 4. intalar  typescipt de manera local y tslint
 
-```npm i typescript --save-dev
-   npm i tslint --save-dev
+```
+npm i typescript --save-dev
+npm i tslint --save-dev
+
 ```
 
 5. abrir un terminal de Git Bash y ejecutar el siguiente comando:
@@ -53,13 +59,15 @@
 ```
 7. intalar  express cors dotenv
 
-```npm i express cors dotenv
+```
+npm i express cors dotenv
 
 ```
 
 8. intalar  los types/express
 
-```npm i --save-dev @types/express
+```
+npm i --save-dev @types/express
 
 ```
 
